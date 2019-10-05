@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 //http://localhost:4200/add	
 /*
  * Root Application for spring boot
+ * Main app
  */
 @SpringBootApplication
 public class Application {
